@@ -1,5 +1,7 @@
 # my-super-cool-awesome-project-app-heroku-node-thing
 
+[link to heroku app](https://dev-exam-noahc.herokuapp.com/)
+
 ## What is it? 
 This is a demo Node.js app utilizing Express.js & Angular.js. 
 
