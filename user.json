@@ -1,0 +1,12 @@
+{
+    "name": "Noah Cothran",
+    "github": "NoahCothran",
+    "repo": "url to the repo you create for this code",
+    "app": "url to the heroku app you create for this",
+    "skills": [
+        "skill 1",
+        "skill 2",
+        "skill 3",
+        "skill ...n"
+    ]
+}
