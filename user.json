@@ -2,7 +2,7 @@
     "name": "Noah Cothran",
     "github": "NoahCothran",
     "repo": "https://github.com/NoahCothran/dev-exam-noahc",
-    "app": "url to the heroku app you create for this",
+    "app": "https://dev-exam-noahc.herokuapp.com/",
     "skills": [
         "Networking",
         "Troubleshooting",
